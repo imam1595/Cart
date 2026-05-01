@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings. Blocks 99% of UVA and UVB rays with polarized lenses and a lightweight frame that fits all face shapes.",
+    "image": "https://cdn.pixabay.com/photo/2017/08/06/12/06/sunglasses-2591512_640.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "SPF 50 Sunscreen Lotion",
+    "brand": "GlowSkin",
+    "price": 22,
+    "rating": 4.5,
+    "stock": 35,
+    "description": "Broad-spectrum SPF 50 sunscreen lotion that protects your skin from harmful UVA and UVB rays. Water-resistant, non-greasy formula suitable for all skin types.",
+    "image": "https://cdn.pixabay.com/photo/2020/07/10/10/02/sunscreen-5389990_640.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 3,
+    "name": "Floral Summer Dress",
+    "brand": "BeachWave",
+    "price": 38,
+    "rating": 4.9,
+    "stock": 20,
+    "description": "Light and breezy floral summer dress made from 100% breathable cotton. Perfect for beach trips, brunches, or casual summer outings. Available in multiple sizes.",
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/08/29/woman-2564660_640.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "Inflatable Beach Floatie",
+    "brand": "CoastalKit",
+    "price": 29,
+    "rating": 4.3,
+    "stock": 15,
+    "description": "Giant inflatable pool and beach floatie in fun summer shapes. Made from durable, puncture-resistant PVC. Easy to inflate and deflate for convenient storage.",
+    "image": "https://cdn.pixabay.com/photo/2017/07/31/21/55/flamingo-2561751_640.jpg",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Waterproof Beach Bag",
+    "brand": "CoastalKit",
+    "price": 34,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Spacious waterproof tote bag perfect for the beach or pool. Features a mesh pocket, zipper closure, and comfortable shoulder straps. Holds towels, sunscreen, and more.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/09/15/bag-1868758_640.jpg",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Men's Slim Fit Jeans",
+    "brand": "BeachWave",
+    "price": 26,
+    "rating": 4.4,
+    "stock": 40,
+    "description": "Classic men's denim jeans with a slim fit and comfortable stretch fabric. Versatile summer style for casual outings, beach boardwalks, or weekend hangouts.",
+    "image": "https://cdn.pixabay.com/photo/2014/08/26/21/49/jeans-428614_640.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "GlowSkin",
+    "price": 14,
+    "rating": 4.8,
+    "stock": 50,
+    "description": "Soothing aloe vera gel that instantly cools and hydrates sun-exposed skin. Reduces redness and peeling. Fragrance-free and dermatologist tested for sensitive skin.",
+    "image": "https://cdn.pixabay.com/photo/2020/10/04/10/08/aloe-vera-5626631_640.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 8,
+    "name": "Wide Brim Sun Hat",
+    "brand": "SunShade",
+    "price": 19,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Stylish wide brim straw hat offering excellent sun protection for your face and neck. Lightweight, breathable weave with an adjustable inner band for a perfect fit.",
+    "image": "https://cdn.pixabay.com/photo/2017/06/02/18/24/hat-2367663_640.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 9,
+    "name": "Portable Beach Umbrella",
+    "brand": "CoastalKit",
+    "price": 45,
+    "rating": 4.2,
+    "stock": 12,
+    "description": "UV-blocking portable beach umbrella with a sand anchor base. 6.5ft canopy provides shade for two people. Lightweight aluminum pole and carrying bag included.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/16/59/beach-1846353_640.jpg",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 10,
+    "name": "Women's Summer Top",
+    "brand": "BeachWave",
+    "price": 42,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "Vibrant women's summer top in bold tropical prints. Lightweight and breathable fabric that keeps you cool all day. Perfect for beach outings or casual summer days.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/09/32/woman-1868840_640.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 11,
+    "name": "Hydrating Face Mist",
+    "brand": "GlowSkin",
+    "price": 18,
+    "rating": 4.6,
+    "stock": 30,
+    "description": "Refreshing facial mist infused with hyaluronic acid and rose water. Instantly hydrates and cools your skin on hot summer days. Travel-friendly 100ml spray bottle.",
+    "image": "https://cdn.pixabay.com/photo/2018/01/24/15/15/cosmetics-3104631_640.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 12,
+    "name": "Waterproof Sport Sandals",
+    "brand": "SunShade",
+    "price": 55,
+    "rating": 4.4,
+    "stock": 16,
+    "description": "Durable waterproof sport sandals with adjustable velcro straps and a non-slip rubber sole. Ideal for beach walks, water sports, or casual summer adventures.",
+    "image": "https://cdn.pixabay.com/photo/2016/10/22/11/28/sandals-1760611_640.jpg",
+    "category": "Footwear"
+  }
+]
